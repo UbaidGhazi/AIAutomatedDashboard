@@ -300,3 +300,11 @@ def app():
 # Run the app
 if __name__ == "__main__":
     app()
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+
+
